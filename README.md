@@ -7,4 +7,6 @@ js Wright helps developers save time on naming and organizing folders, reducing 
 
 To run the file, make sure Node.js is installed, then use:
 
-```bash node wright.js ```
+```bash
+node wright.js
+```
